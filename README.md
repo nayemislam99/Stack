@@ -1,2 +1,1 @@
-# Stack
-#finallly done it man
+#wellcome to our full stack journey
